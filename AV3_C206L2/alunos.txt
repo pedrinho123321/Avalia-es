@@ -1,0 +1,7 @@
+Pedro Vilela,1992,Computação,33.0
+Lais,19820,Telecomunicações,66.0
+Julia,1969,Computação,67.0
+Pedro,247,Software,77.0
+Jm,165,Software,78.0
+Hfc,1888,Computação,80.0
+Thomas,269,Software,88.0
